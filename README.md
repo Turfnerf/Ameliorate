@@ -25,3 +25,20 @@ Please check out their socials and their content!
 - https://x.com/_Nearbear_/status/1874318693381136421
 
 ---
+
+## Ameliorate Alpha 0.0.1 Changelog
+# Compressed Blocks
+-	New block versions of the following items, crafted through 9 pieces of the same type, some of the blocks have unique properties based on their material.
+
+# Compressed Items - Construction 
+1. Flint
+2. Charcoal 
+3. Rotten Flesh
+4. Fermented Spider Eyes
+5. Turtle Scute
+6. Armadillo Scute
+7. Phantom Membrane
+8. Feather
+9. Sugar 
+10. Gunpowder 
+
