@@ -114,7 +114,9 @@ Paths - Nature
 Nature
 1. Fodder: Sheep eat it much like grass but without turning it into dirt, allowing for indoor farms.
 2. Cobbled Coarse Dirt
+   
 ---
+
 ### Mob Tweaks
 -	The list of vanilla mobs by category that were changed, applying appropriate behavior, compatibility, and quality of life changes to their AI. 
 
@@ -131,7 +133,7 @@ Minor Changes
 4. Parrot, Chicken: Can be tempted with new seed blocks.
 5. Enderman: Avoids open eyeblossoms in a 16-block range.
 6. Spiders/Cave Spiders: Hunt silverfish; Silverfish: Fears spiders/cave spiders.
-7. *Cat/Ocelot: Can be tempted with a block of string.
+7. Cat/Ocelot: Can be tempted with a block of string.
 8. Piglin: Gathers added golden apples and carrots.
 9. Witch: Drinks milk for negative effects, flees Iron Golems.
 10. Iron Golem: Takes half damage from projectiles, exits water when sunk, walks on new paths.
