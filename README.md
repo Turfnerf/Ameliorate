@@ -114,7 +114,7 @@ Paths - Nature
 Nature
 1. Fodder: Sheep eat it much like grass but without turning it into dirt, allowing for indoor farms.
 2. Cobbled Coarse Dirt
-
+---
 ### Mob Tweaks
 -	The list of vanilla mobs by category that were changed, applying appropriate behavior, compatibility, and quality of life changes to their AI. 
 
