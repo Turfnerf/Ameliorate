@@ -1,4 +1,5 @@
 ---
+
 ### Introduction
 Ameliorate is an upcoming Minecraft Bedrock Add-on that aims to expand and improve existing features. Featuring new decorative and useful blocks, updated mob behavior, and quality of life improvements. 
 
@@ -114,3 +115,31 @@ Nature
 1. Fodder: Sheep eat it much like grass but without turning it into dirt, allowing for indoor farms.
 2. Cobbled Coarse Dirt
 
+### Mob Tweaks
+-	The list of vanilla mobs by category that were changed, applying appropriate behavior, compatibility, and quality of life changes to their AI. 
+
+Major Changes
+1. Horses: Tamed and saddled horses (including donkeys and mules) now stay in place when unridden; mules can be equipped with armor and chests; collision box width reduced to 1.0 for easier navigation.
+2. Villagers: Use new paths; certain jobs grant new abilities (e.g., clerics drink milk for negative effects, heal, and turn invisible in danger).
+3. Illagers: Can now swim, open doors, avoid hazards (cactus, magma), alert other illagers, and detect threats within 32 blocks.
+4. Wandering Trader: Trades include new blocks; reduced walk speed, increased mob fear detection; drinks milk for negative effects, avoids farmland.
+
+Minor Changes
+1. Llama: Drops mutton, no longer spits at wolves/llamas; Trader Llama: Fears undead and illagers.
+2. Camel: Tamed and saddled camels stay in place when unridden (like horses).
+3. Sniffer: Can be mounted, eats added torchflower seeds.
+4. Parrot, Chicken: Can be tempted with new seed blocks.
+5. Enderman: Avoids open eyeblossoms in a 16-block range.
+6. Spiders/Cave Spiders: Hunt silverfish; Silverfish: Fears spiders/cave spiders.
+7. *Cat/Ocelot: Can be tempted with a block of string.
+8. Piglin: Gathers added golden apples and carrots.
+9. Witch: Drinks milk for negative effects, flees Iron Golems.
+10. Iron Golem: Takes half damage from projectiles, exits water when sunk, walks on new paths.
+11. Snow Golem: Reduced projectile damage, immune to poison.
+
+Features
+-	New interactions added by the add-on.
+1. Block Interaction: grass paths can be turned into dirt by using a shovel, the same goes for farmland.
+2. Projectile Reaction: campfires can be extinguished with a thrown snowball or wind charge. Gravel has a chance to turn into sand when struck by a wind charge (0.3).
+
+---
