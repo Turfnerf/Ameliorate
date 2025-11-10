@@ -15,5 +15,13 @@ Add-ons after Ameliorate are subject to change. In a nutshell I am making Minecr
 Kanadeyoru: The talented coder with a background in Minecraft: Bedrock Edition and Stardew Valley modding, responsible for the backend of the add-on (scripts), along with providing helpful advice and feedback. This project wouldn't have been possible without their collaboration!
 NearBear: Another very skilled add-on creator who lent a hand in migrating scripts to the newer API versions, a crucial step toward this alpha release.
 Chympeì: An aspiring add-on creator whom I'd like to thank for their help with getting started with blocks when I started this project.
+
 And to my friends on Discord who gave their support to my endeavors: RevanMay, Zythrian, & Rjazz. :)
+
+Please check out their socials and their content!
+https://ko-fi.com/kanadeyoru1
+https://www.curseforge.com/members/kanadeyoru/projects
+https://next.nexusmods.com/profile/Kanadeyoru?gameId=1303
+https://x.com/_Nearbear_/status/1874318693381136421
+
 ---
