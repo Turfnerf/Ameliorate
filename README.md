@@ -19,9 +19,9 @@ Chympeì: An aspiring add-on creator whom I'd like to thank for their help with 
 And to my friends on Discord who gave their support to my endeavors: RevanMay, Zythrian, & Rjazz. :)
 
 Please check out their socials and their content!
-https://ko-fi.com/kanadeyoru1
-https://www.curseforge.com/members/kanadeyoru/projects
-https://next.nexusmods.com/profile/Kanadeyoru?gameId=1303
-https://x.com/_Nearbear_/status/1874318693381136421
+- https://ko-fi.com/kanadeyoru1
+- https://www.curseforge.com/members/kanadeyoru/projects
+- https://next.nexusmods.com/profile/Kanadeyoru?gameId=1303
+- https://x.com/_Nearbear_/status/1874318693381136421
 
 ---
