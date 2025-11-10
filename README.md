@@ -26,11 +26,11 @@ Please check out their socials and their content!
 
 ---
 
-## Ameliorate Alpha 0.0.1 Changelog
-# Compressed Blocks
+# Ameliorate Alpha 0.0.1 Changelog
+### Compressed Blocks
 -	New block versions of the following items, crafted through 9 pieces of the same type, some of the blocks have unique properties based on their material.
 
-# Compressed Items - Construction 
+Compressed Items - Construction 
 1. Flint
 2. Charcoal 
 3. Rotten Flesh
@@ -41,4 +41,76 @@ Please check out their socials and their content!
 8. Feather
 9. Sugar 
 10. Gunpowder 
+11. Glowstone Dust
+12. String
+13. Ink Sac
+14. Glow Inc Sac
+15. Spider Eyes
+16. Paper
+17. Book
+18. Glass Bottle
+19. Egg
+20. Blue Egg
+21. Brown Egg
+22. Turtle Egg
+23. Stick
+24. Sugar Cane
+25. Cactus
+26. Seagrass
+27. Kelp
+28. Hanging Root
+29. Crimson Roots
+30. Weeping Vine
+31. Nether Sprouts 
+32. Warped Roots
+33. Twisting Vine
+
+Items
+1. Fire Charge
+
+Crop - Nature 
+1. Beetroot 
+2. Potato 
+3. Carrot
+4. Golden Carrot
+5. Apple
+6. Golden Apple
+7. Sweet Berries
+8. Glow Berries
+Seed – Nature
+1. Wheat Seed
+2. Pumpkin Seed
+3. Melon Seed
+4. Beetroot Seed
+5. Torchflower Seed
+6. Pitcher Pod
+
+Mushroom – nature
+1. Brown Mushroom 
+2. Red Mushroom 
+3. Crimson Fungus
+4. Warped Fungus
+
+Nature
+1. Cocoa Beans
+2. Nether Warts
+3. Chorus Fruit
+4. Glow Lichen
+5. Deadbush
+
+Paths - Nature
+1. Cobbled Coarse Dirt Path
+2. Coarse Dirt Path
+3. Podzol Path
+4. Mycelium Path
+5. Gravel Path
+6. Sand Path
+7. Red Sand Path
+8. Netherrack Path
+9. Crimson Nylium Path
+10. Warped Nylium Path
+
+Nature
+1. Fodder: Sheep eat it much like grass but without turning it into dirt, allowing for indoor farms.
+2. Cobbled Coarse Dirt
 
