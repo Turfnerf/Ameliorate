@@ -138,6 +138,51 @@ Minor Changes
 9. Witch: Drinks milk for negative effects, flees Iron Golems.
 10. Iron Golem: Takes half damage from projectiles, exits water when sunk, walks on new paths.
 11. Snow Golem: Reduced projectile damage, immune to poison.
+    
+---
+
+### Recipe Changes
+
+Items that are now craftable in a 2x2 grid
+1. Bread
+2. Cookie
+3. Paper
+4. Snow layer
+
+Alternative recipes 
+1. Rabbit Hide can be used in items that require leather
+2. Glowberry can be used to craft torches, yielding nine torches
+3. Dispensers can be crafted with
+4. Soul Sand & Soul Soil can be used to craft TNT
+5. Stone can be used to craft a repeater
+6. Cake can be crafted with a sweetberry
+7. Red mushroom can be used to craft a  fermented spider
+8. Saplings can be used to craft a stick
+9. Candles can be used to craft a Jack O' Lantern and Pumpkins can be used to craft a Jack O' Lantern
+
+Recipe output changes
+
+Reduced ingredients:
+1. Banner - two wool instead of six
+2. Sign - one plank instead of six
+3. Hanging Sign - one stripped log and chain instead of six stripped logs and two chains
+4. Painting - four sticks instead of eight 
+5. Item Frame - four leather instead of eight 
+6. Lodestone - four chiseled stone brick instead of eight 
+7. Recovery Compass - four echo shards instead of eight
+
+Recipe output:
+1. Door - two instead of three
+2. Trapdoor - four instead of three
+3. Fence - eight instead of six
+4. Ladder - eight instead of three
+5. Chain - eight instead of one
+6. Candle - four instead of one
+7. Rail - sixty-four instead of sixteen 
+8. TNT - four instead of one
+9. Arrow - eight instead of four
+
+---
 
 Features
 -	New interactions added by the add-on.
