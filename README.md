@@ -25,11 +25,14 @@ Please check out their socials and their content!
 - https://next.nexusmods.com/profile/Kanadeyoru?gameId=1303
 - https://x.com/_Nearbear_/status/1874318693381136421
 
+### Reminder
+This add-on is achievement friendly; it does not require experimental gameplay option to be enabled. Ameliorate works best on the latest stable version of Bedrock Edition. It does not yet support vibrant visuals.
+
 ---
 
 # Ameliorate Alpha 0.0.1 Changelog
 ### Compressed Blocks
--	New block versions of the following items, crafted through 9 pieces of the same type, some of the blocks have unique properties based on their material.
+Ameliorate adds a dozen blocks ranging from decorative to utility, the biggest family of which are the compressed block versions of most items, serving to remedy inventory clutter and add new decorative possibilities. Some blocks possess special qualities that depend on the material they are made from.
 
 Compressed Items - Construction 
 1. Flint
@@ -134,15 +137,15 @@ Minor Changes
 5. Enderman: Avoids open eyeblossoms in a 16-block range.
 6. Spiders/Cave Spiders: Hunt silverfish; Silverfish: Fears spiders/cave spiders.
 7. Cat/Ocelot: Can be tempted with a block of string.
-8. Piglin: Gathers added golden apples and carrots.
+8. Piglin: Gathers added bag of golden apples and carrots.
 9. Witch: Drinks milk for negative effects, flees Iron Golems.
-10. Iron Golem: Takes half damage from projectiles, exits water when sunk, walks on new paths.
-11. Snow Golem: Reduced projectile damage, immune to poison.
-    
+10. Iron Golem: Takes half damage from projectiles, can exit water when sunk, walks on new paths.
+11. Snow Golem: Increased defense against projectile damage, now immune to poison.
+
 ---
 
 ### Recipe Changes
-
+- Several changes were made to vanilla recipes to make crafting certain items more efficient and less expensive. In addition, alternative and new crafting recipes have been added.
 Items that are now craftable in a 2x2 grid
 1. Bread
 2. Cookie
@@ -161,7 +164,6 @@ Alternative recipes
 9. Candles can be used to craft a Jack O' Lantern and Pumpkins can be used to craft a Jack O' Lantern
 
 Recipe output changes
-
 Reduced ingredients:
 1. Banner - two wool instead of six
 2. Sign - one plank instead of six
@@ -182,11 +184,47 @@ Recipe output:
 8. TNT - four instead of one
 9. Arrow - eight instead of four
 
+New Recipes
+1. Deepslate & Blackstone - can craft dispenser, dropper, lever, observer, and piston.
+2. Coral - can be crafted into their respective block versions, both coral and coral fan can be turned into dye. 
+3. Wool - wool of any color can be crafted into other colors.
+4. Gunpowder - netherwart and coal or charcoal
+5. Coal & Charcoal - can craft black dye
+6. Four Chests - eight logs 
+7. Three Leather - saddle 
+8. Four String - wool
+9. Cobweb - two strings and two slimeballs
+10. Tuff - two andesite and two basalt
+11. Sugar - four sweet berries
+
+Block output:
+1. Clay Block - can craft four clay
+2. Glowstone Block - can craft four glowstone dust
+3. Honeycomb Block - can craft four honeycomb
+4. Mangrove Root - can craft four sticks
+5. Prismarine Block - can craft four prismarine shards
+6. Prismarine Bricks - can craft three prismarine shards
+7. Sea Lantern - can craft five prismarine crystals 
+8. Quartz Block - can craft four quartz
+9. Snow Block - can craft four snowballs
+
+Furnace output:
+1. Bucket of Powder Snow - cooked into a water bucket
+2. Deadbush - saplings of all trees can be cooked into deadbushes
+3. Short Grass - cooked into short dry grass
+4. Tall Grass - cooked into tall dry grass
+5. Sweet Berries - cooked into sugar
+
 ---
 
 Features
--	New interactions added by the add-on.
-1. Block Interaction: grass paths can be turned into dirt by using a shovel, the same goes for farmland.
-2. Projectile Reaction: campfires can be extinguished with a thrown snowball or wind charge. Gravel has a chance to turn into sand when struck by a wind charge (0.3).
+-	New interactions have been added for easier terraforming and immersion. From easier pathmaking to block-projectile reactions.
+1. Grass Paths can be turned into dirt by using a shovel, the same goes for the new paths added, just with their block counterpart.
+2. Farmland can be reverted into dirt using a hoe or dirt.
+3. Crimson Nylium, warped nylium, and their paths can be turned into netherrack using a hoe. 
+4. Using a water bottle, splash water bottle, or lingering water bottle on dry farmland will transform it into wet farmland.
+5. Campfires can be extinguished with a thrown snowball or wind charge. 
+6. Gravel has a chance to turn into sand when struck by a wind charge (0.3 chance).
 
+End of Changelog
 ---
